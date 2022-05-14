@@ -1,0 +1,8 @@
+{
+  "name": "rescript-react-hooks",
+  "version": "1.0.0",
+  "sources": {
+    "dir": "src"
+  },
+  "bs-dependencies": ["@rescript/react"]
+}
