@@ -1,5 +1,5 @@
 {
-  "name": "rescript-react-hooks",
+  "name": "@glennsl/rescript-react-hooks",
   "description": "Better hooks for rescript-react",
   "version": "1.0.0",
   "author": "Glenn Slotte <glenn@slotte.net>",

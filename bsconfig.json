@@ -1,6 +1,5 @@
 {
-  "name": "rescript-react-hooks",
-  "version": "1.0.0",
+  "name": "@glennsl/rescript-react-hooks",
   "sources": {
     "dir": "src"
   },
